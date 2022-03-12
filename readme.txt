@@ -1,2 +1,2 @@
 this is jenkins test file 
-new commit 1..2
+new commit 1..2..3
